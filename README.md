@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/10880934-conjunto-de-sinal-de-moeda-de-moeda-mundial-de-diferentes-paises-como-dolar-euro-rublo-e-outros-colecao-de-ilustracaoial-de-moeda-de-icone-de-moedas-vetor.jpg">
+   <img src="https://github.com/user-attachments/assets/133b9b5c-260f-483f-b11c-8e7af9aaa22a">
 </p>
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
