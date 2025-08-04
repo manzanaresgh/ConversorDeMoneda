@@ -3,7 +3,7 @@
 </p>
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
-   <img src="https://img.shields.io/badge/JAVA-%20Javascript-yellow">
+   <img src="https://img.shields.io/badge/JAVA-%20Java-red">
 </p>
 
 ##Índice
@@ -52,7 +52,7 @@
 
 **Se puede tener acceso al proyecto a travez del siguiente link**
 
-<a href="https://github.com/manzanaresgh/ConversorDeMoneda">amigo-secreto</a>
+<a href="https://github.com/manzanaresgh/ConversorDeMoneda">Conversor de Monedas</a>
 
 \## 🛠️ Abre y ejecuta el proyecto
 
